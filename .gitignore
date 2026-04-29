@@ -5,3 +5,8 @@ client/build/
 *.log
 .DS_Store
 bot-data/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
